@@ -1,3 +1,3 @@
-## prework-study-guide
+# prework-study-guide
 
-# Boot Camp Prework Study Guide for Students
+## Boot Camp Prework Study Guide for Students
